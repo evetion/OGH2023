@@ -1,5 +1,5 @@
 # OGH2023
-Julia teaching materials for the OpenGeoHub summer school 2023 in Poznan, Poland.
+Julia teaching materials for the [OpenGeoHub summer school 2023](https://opengeohub.org/summer-school/opengeohub-summer-school-poznan-2023/) in Poznan, Poland.
 
 ## Hackathons
 I've participated in the OGH2023 hackathons by using Julia (and won 🎉). The notebooks are here:
