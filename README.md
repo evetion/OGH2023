@@ -1,6 +1,12 @@
 # OGH2023
 Julia teaching materials for the OpenGeoHub summer school 2023 in Poznan, Poland.
 
+## Hackathons
+I've participated in the OGH2023 hackathons by using Julia (and won 🎉). The notebooks are here:
+- `hackatahons/ticks.ipynb`
+- `hackathons/landcover.ipynb`
+
+
 ## Schedule
 See the [schedule at pretalx](https://pretalx.earthmonitor.org/opengeohub-summer-school-2023/schedule/).
 
